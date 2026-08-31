@@ -1,5 +1,3 @@
-<img src="icon.png" width="140" alt="icon">
-
 # Takayuki Michishita（道下孝之）
 
 Generative AI / LLM Architect  
